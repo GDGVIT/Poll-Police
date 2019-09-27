@@ -1,5 +1,5 @@
 ## Poll-Police
-An election live vehicle monitoring application
+A live vehicle monitoring application for elections
 
 ---
 
