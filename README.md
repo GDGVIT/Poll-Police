@@ -34,5 +34,5 @@ Note that due to privacy, the application code is redacted, for disclosure, cont
 
 | Developer | Stack | Profile | 
 |:---------:|:-----:|:-------:|
-| Angad Sharma | Backend | [L04DB4L4NC3R](https://github.com/orgs/GDGVIT/people/L04DB4L4NC3R) | 
-| Yaswant Narayan | App | [MINOSai](https://github.com/orgs/GDGVIT/people/MINOSai) |
+| Angad Sharma | Backend | [L04DB4L4NC3R](https://github.com/L04DB4L4NC3R) | 
+| Yaswant Narayan | App | [MINOSai](https://github.com//MINOSai) |
