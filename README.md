@@ -36,3 +36,9 @@ Note that due to privacy, the application code is redacted, for disclosure, cont
 |:---------:|:-----:|:-------:|
 | Angad Sharma | Backend | [L04DB4L4NC3R](https://github.com/L04DB4L4NC3R) | 
 | Yaswant Narayan | App | [MINOSai](https://github.com//MINOSai) |
+
+
+### Repos
+
+* [Backend](https://github.com/GDGVIT/poll-police-backend)
+* [Android](https://github.com/GDGVIT/Election-App)
